@@ -1,0 +1,30 @@
+# Node.js dependencies
+/node_modules/
+
+# Build outputs
+/dist/
+/build/
+/public/
+
+# Environment files
+.env
+
+# Logs
+*.log
+logs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Flutter build outputs
+/flutter/bin/cache/
+/flutter/.packages
+/.flutter-plugins
+/.flutter-plugins-dependencies
+.flutter-plugins
+
